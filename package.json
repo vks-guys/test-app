@@ -16,6 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://vks-guys.github.io/test-app/",
   "eslintConfig": {
     "extends": "react-app"
   },
